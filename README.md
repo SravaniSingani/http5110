@@ -8,7 +8,7 @@ This course describes the roles and responsibilities of a Web Developer.
 - <https:workshopsinwd.humber>
 - You can find all the necessary details in [Intro to Web development](https:introtowd.humber)
 
-![This is a fun place to code](iwd-logo.png)
+![This is a fun place to code](iwd-logo.gif)
 
 ### Note:
 Every student must understand and follow **"Academic Integrity"**
